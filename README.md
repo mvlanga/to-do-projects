@@ -6,3 +6,4 @@ Collection of project ideas that I would like to develop for practice purposes.
 - Car Tinder
 - smart closet app
 - smart refuel app
+- pin code input library
